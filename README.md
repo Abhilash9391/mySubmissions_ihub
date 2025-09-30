@@ -8,7 +8,7 @@ Assignments → Exercises and coding tasks to strengthen foundational knowledge.
 
 Projects → Larger implementations combining concepts from ML, DL, and Computer Vision.
 
-Notebooks/Code → Jupyter notebooks and scripts demonstrating algorithms and experiments.
+Notebooks/Code → Google colab and scripts demonstrating algorithms and experiments.
 
 Reports → Documentation and analysis explaining the approach, results, and learnings.
 
